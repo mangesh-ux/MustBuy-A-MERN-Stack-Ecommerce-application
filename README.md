@@ -11,5 +11,5 @@ This Repository has two branches viz. Backend and Frontend.
   <li>BrainTree Payment Gateway</li>
 </ul>
 
-# Demonstration
+## Demonstration
 <a href = "https://youtu.be/jqQSlGTDWUc"><img src = "https://user-images.githubusercontent.com/55969525/120698061-251d9400-c4cc-11eb-98b7-ae4f6400a028.png"/></a>
