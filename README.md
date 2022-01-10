@@ -3,11 +3,11 @@ This Repository has two branches viz. Backend and Frontend.
 
 ## Technologies Used:
 <ul>
-  <li>MongoDB</li>
-  <li>ExpressJs</li>
-  <li>NodeJs</li>
-  <li>ReactJs</li>
-  <li>BootStrap</li>
+  <li>MongoDB for data storage and retrieval</li>
+  <li>ExpressJs for listening to server</li>
+  <li>NodeJs for creating APIs</li>
+  <li>ReactJs for building frontend</li>
+  <li>BootStrap for stylised design</li>
   <li>BrainTree Payment Gateway</li>
 </ul>
 
