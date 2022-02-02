@@ -1,5 +1,5 @@
 # MustBuy-A-MERN-Stack-Ecommerce-application
-This Repository has two branches viz. Backend and Frontend.
+A full fledged E-Commerce web application with CRUD operations on products and categories available for customers and admins, Braintree Payment Gateway Integration Cryptographic Hashing of Passwords. Frontend code is present in different branch.
 
 ## Technologies Used:
 <ul>
